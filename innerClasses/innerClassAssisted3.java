@@ -1,3 +1,4 @@
+
 package innerClasses;
 
 abstract class AnonymousInnerClass {
