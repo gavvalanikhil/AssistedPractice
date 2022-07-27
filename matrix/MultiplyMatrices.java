@@ -5,7 +5,7 @@ public class MultiplyMatrices {
 	{
 	       		int r1 = 2, c1 = 3;
 	        		int r2 = 3, c2 = 2;
-	        		int[][] firstMatrix = { {3, -2, 5}, {3, 0, 4} };
+	        		int[][] firstMatrix = { {3, -2, 5}, {3, 0, 3} };
 	        		int[][] secondMatrix = { {2, 3}, {-9, 0}, {0, 4} };
 	int[][] product = multiplyMatrices(firstMatrix, secondMatrix, r1, c1, c2);
 	displayProduct(product);
