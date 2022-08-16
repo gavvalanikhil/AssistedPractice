@@ -40,7 +40,7 @@ public class Product extends HttpServlet {
 			Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/javatraining","root","Nikhil@2001");
 			String id = request.getParameter("id");
 			//Write sql command
-				String str="select * from product where id="+id;
+				String str="select * from product where pid="+id;
 				
 				//to execute query create object of Statement
 				Statement  ps=con.createStatement();
