@@ -1,5 +1,6 @@
 package com.Servlets;
 
+import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 
 import javax.servlet.ServletException;

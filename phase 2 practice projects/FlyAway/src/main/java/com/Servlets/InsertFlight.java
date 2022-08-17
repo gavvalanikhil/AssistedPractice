@@ -1,5 +1,6 @@
 package com.Servlets;
 
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import java.io.IOException;
 import java.sql.SQLException;
