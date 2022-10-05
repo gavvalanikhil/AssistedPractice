@@ -1,0 +1,40 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "firstName": "Nikhil",
+        "lastName": "gavvala",
+        "email": "nikhil@gmail.com",
+        "mobile": "8500340065",
+        "salary": "100000"
+      },
+      {
+        "id": 2,
+        "firstName": "annayya",
+        "lastName": "anuguru",
+        "email": "anuguru@annayya.com",
+        "mobile": "780904643",
+        "salary": "634435"
+      },
+      {
+        "id": 3,
+        "firstName": "bharath",
+        "lastName": "naidu",
+        "email": "bharath@gmail.com",
+        "mobile": "6762557556",
+        "salary": "247887"
+      },
+      {
+        "id": 4,
+        "firstName": "kalyan",
+        "lastName": "rao",
+        "email": "rao@gmail.com",
+        "mobile": "97982458532",
+        "salary": "77099"
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }

@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "krishna",
+      "lastName": "anguru",
+      "email": "krishna@atla.com",
+      "mobile": "7894563210",
+      "salary": "546849"
+    },
+    {
+      "id": 2,
+      "firstName": "upagna",
+      "lastName": "anuguru",
+      "email": "upagna@gmail.com",
+      "mobile": "9000167771",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstName": "pratima",
+      "lastName": "atla",
+      "email": "atlapratima@gmail.com",
+      "mobile": "98646466546",
+      "salary": "64534"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
